@@ -1,0 +1,4 @@
+int subj_1,subj_2,subj_3,subj_4,subj_5
+read subj_1,subj_2,subj_3,subj_4,subj_5
+sum_average = subj_1+subj_2+subj_3+subj_4+subj_5 / 5
+print sum_average
